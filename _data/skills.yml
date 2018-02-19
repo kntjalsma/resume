@@ -1,12 +1,12 @@
 # Skills
 # Python Data Analysis
 - skill: Data Analysis
-  description: Fluent in the Python programming language and its uses for data analysis applications with experience with voter data and demographics.
+  description: Fluent in the Python programming language and its uses in data analysis applications. Experience working with voter file data, polling data, and demographics.
 
 # Web Design
 - skill: HTML and CSS Web Design
-  description: Can create static websites and graphical email campaigns.
+  description: Can create custom static websites and graphical email campaigns. Experience with creating and modifying templates including with the Liquid Template Language used by Nationbuilder and other software.
 
 # Nationbuilder
-- skill: Nationbuilder CRM
-  description: Extensive experience with the Nationbuilder software platform and all of its features.
+- skill: Nationbuilder
+  description: Extensive experience with the Nationbuilder software platform and all of its features including website hosting, voter and contact databasing, mass email campaigns, and more.
